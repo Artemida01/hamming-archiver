@@ -1,9 +1,6 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13180396&assignment_repo_type=AssignmentRepo)
-# Лабораторная работа 6
 
-## Задача
-
-Реализовать помехоустойчивый архиватор файлов без сжатия **HamArc**, объединяющий несколько файлов в один архив. Для помехоустойчивого кодирования использовать [Коды Хэмминга](https://en.wikipedia.org/wiki/Hamming_code). Формат хранения данных в архиве также является частью задачи.
+# Hamarch  
+Реализует помехоустойчивый архиватор файлов без сжатия **HamArc**, объединяющий несколько файлов в один архив. Для помехоустойчивого кодирования использовать [Коды Хэмминга](https://en.wikipedia.org/wiki/Hamming_code).
 
 ## Функционал
 
